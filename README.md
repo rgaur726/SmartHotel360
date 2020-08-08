@@ -1,7 +1,3 @@
-# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
-
-## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
-
 # SmartHotel360 Reference Apps
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes.
 
